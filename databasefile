@@ -1,0 +1,5 @@
+>db.photo.insert({firstname:'Mamta',last_name:'Rani',email_address:'mamta5@gmail.com',password:'Mamta',age:22,gender:'female',photography_type:'Wildlife'})
+>db.photo.insert({firstname:'Somika',last_name:'Somika',email_address:'somi@gmail.com',password:'Somi',age:25,gender:'female',photography_type:'pet photographer'})
+>db.photo.insert({firstname:'Arshpreet',last_name:'Singh',email_address:'arshgmail.com',password:'Arsh1',age:23,gender:'male',photography_type:'event photographer'})
+>db.photo.insert({firstname:'Sarbjeet',last_name:'Kaur',email_address:'Sarb@gmail.com',password:'sarbjeet',age:23,gender:'female',photography_type:'Astro photographer'})
+>db.photo.insert({firstname:'Sarandeep',last_name:'Kaur',email_address:'Saran@gmail.com',password:'Saran',age:24,gender:'female',photography_type:'event photographer'})
